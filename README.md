@@ -35,3 +35,6 @@ npp <file1> <file*>
 
 ## gitlog.cmd
 Runs `git log --decorate --oneline --graph` to provide a cleaner view of branch history
+
+## hist.cmd
+Simplified way to view cmd history
