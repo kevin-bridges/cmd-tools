@@ -10,3 +10,5 @@ Simplified wait command
 wait <number-of-seconds>
 wait 5
 ```
+## showpath.cmd
+Cleanly display your env path variable
