@@ -23,3 +23,15 @@ Open kdiff via cmd.exe (can pass in args)
 ```cmd
 kdiff <file1> <file2>
 ```
+## npp.cmd
+Open notepad++ via cmd.exe (can pass in args)
+
+*must have notepad++ installed in Program Files (x86)*
+```cmd
+npp
+npp <file1>
+npp <file1> <file*>
+```
+
+## gitlog.cmd
+Runs `git log --decorate --oneline --graph` to provide a cleaner view of branch history
