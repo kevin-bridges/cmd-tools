@@ -12,3 +12,7 @@ wait 5
 ```
 ## showpath.cmd
 Cleanly display your env path variable
+
+## pwd.cmd
+Display present working directory
+
