@@ -6,7 +6,7 @@ Quickly navigate to desktop directory
 
 ## wait.bat
 Simplified wait command
-
-`wait <number-of-seconds>`
-
-`wait 5`
+```cmd
+wait <number-of-seconds>
+wait 5
+```
