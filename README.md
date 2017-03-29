@@ -16,3 +16,10 @@ Cleanly display your env path variable
 ## pwd.cmd
 Display present working directory
 
+## kdiff.cmd
+Open kdiff via cmd.exe (can pass in args)
+
+*must have kdiff3 installed in Program Files*
+```cmd
+kdiff <file1> <file2>
+```
