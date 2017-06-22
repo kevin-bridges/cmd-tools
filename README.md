@@ -13,6 +13,25 @@ wait 5
 ## showpath.cmd
 Cleanly display your env path variable
 
+## dontsleep.cmd
+Enable/disable Performance Power mode via cmd line. Also has a persistant setting to 
+get around Group Policy Settings. Use this if your tired of having to move your mouse
+to keep the screen alive.
+```cmd
+Examples:
+  Enable Performance Power Setting once
+    dontsleep.cmd
+  
+  Enable Performance Power Setting Persistantly without/with default wait  time intervals between setting    
+  
+    dontsleep -P    
+    dontsleep -P 300
+  
+  Enable Balanced Power Setting    
+  
+    dontsleep -D
+```
+
 ## pwd.cmd
 Display present working directory
 
