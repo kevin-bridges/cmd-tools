@@ -58,5 +58,6 @@ Runs `git log --decorate --oneline --graph` to provide a cleaner view of branch 
 ## hist.cmd
 Simplified way to view cmd history
 
-## datestamp.cmd
-Saves date stamp to %date% variable
+## dtstamp.cmd
+Saves date stamp to %datestamp% env variable
+Saves time stamp to %timestamp% env variable
